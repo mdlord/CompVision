@@ -1,6 +1,3 @@
-% I1 = readimage(images, 1);
-% I2 = readimage(images, 2);
-
 I1 = imread('imf1.jpeg');
 I2 = imread('imf3.jpeg');
 
