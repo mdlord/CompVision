@@ -8,3 +8,8 @@
 BAG OF WORDS (proj3.m )
 -> implementation of bag of words using vl_sift/vl-kmeans etc. it uses the code specific funtion cluster.m
 ->to run this code, you must have vl_feat installed -> follow the link (http://www.vlfeat.org/download.html)
+->use seperate files test and train to implement the code(refer to the visio_dataset)
+
+PRETRAINED CONVOLUTION NETWORKS(precnn.m)
+->to download the pretrained dataset, follow the link (http://www.vlfeat.org/matconvnet/pretrained/)
+->build testing classes based on the labels already in the data set that you are downloading.
